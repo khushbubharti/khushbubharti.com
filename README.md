@@ -1,1 +1,1 @@
-# About Khushbu Bharti Thakur
+# Khushbu Bharti Thakur

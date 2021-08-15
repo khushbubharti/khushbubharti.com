@@ -2731,7 +2731,7 @@ h6 {
     padding-left: 40px;
     font-size: 16px;
     color: #777777; }
-    .personal_text .basic_info li i {
+    .personal_text .basic_info li a i {
       position: absolute;
       left: 0px;
       top: 50%;

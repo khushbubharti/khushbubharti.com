@@ -309,9 +309,7 @@
 	}
     /* Home Banner Area css
 	============================================================================================ */
-	.home_banner_area .banner_inner .banner_content h2 {
-		font-size: 28px;
-	}
+	
 	.home_banner_area {
 		min-height: 570px;
 	}

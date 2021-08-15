@@ -302,12 +302,9 @@ button:focus {
   height: 100vh;
   position: relative;
   z-index: 1;
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
   }
   .home_banner_area .box_1620 {
-    height: 100vh;
+    min-height: 100vh;
     border-radius: 12px;
     position: relative;
     background: #fff;
